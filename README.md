@@ -52,6 +52,8 @@ To run the project, follow these steps:
    pip install flask
    pip install joblib
    npm install axios
+   npx create-react-app
+   node.js 
    ```
 
 3. Ensure the machine learning model (`model.pkl`) is included in the appropriate directory for fare prediction.
@@ -97,5 +99,3 @@ To run the project, follow these steps:
 We extend our gratitude to our instructor, **Preety Singh**, for her guidance and mentorship throughout the project. We also appreciate the contributions of all team members who helped bring this project to life.
 
 ---
-
-This version provides more clarity and readability while maintaining all the critical project information. Let me know if you need further modifications!
